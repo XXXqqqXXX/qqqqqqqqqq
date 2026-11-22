@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" fill="none">
+  <defs><linearGradient id="a" x1="58" y1="9" x2="671" y2="416" gradientUnits="userSpaceOnUse"><stop stop-color="#E7E9E3"/><stop offset="1" stop-color="#C8D0C8"/></linearGradient><linearGradient id="b" x1="275" y1="52" x2="451" y2="353" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFEFA"/><stop offset="1" stop-color="#E8E4D9"/></linearGradient></defs>
+  <path fill="url(#a)" d="M0 0h720v420H0z"/><circle cx="112" cy="95" r="60" fill="#fff" fill-opacity=".25"/><path d="M0 340c239-38 506 0 720-27v107H0V340Z" fill="#B8C2B8"/>
+  <rect x="264" y="55" width="192" height="282" rx="5" fill="#A8A99F" fill-opacity=".35" transform="rotate(3 264 55)"/><rect x="264" y="49" width="192" height="282" rx="5" fill="url(#b)" stroke="#B6B2A7" stroke-width="2"/>
+  <circle cx="360" cy="114" r="25" stroke="#8E9B88" stroke-width="2"/><path d="m360 94 5 13 14 1-10 9 3 14-12-7-12 7 3-14-10-9 14-1 5-13Z" fill="#8E9B88" fill-opacity=".72"/>
+  <path d="M300 165h120m-105 17h90m-89 20h88" stroke="#A5A295" stroke-width="2" stroke-linecap="round"/><path d="M324 242h72m-68 13h64" stroke="#717B70" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/><path d="M331 294c13-13 29-13 43 0" stroke="#7C8B75" stroke-width="2" stroke-linecap="round"/>
+  <path d="M225 341h269" stroke="#777E74" stroke-opacity=".32" stroke-width="2"/><text x="86" y="98" fill="#6D776D" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">STUDENT LIFE / 04</text><path d="m494 95 29 15-29 15V95Z" fill="#82917B" fill-opacity=".68"/>
+</svg>

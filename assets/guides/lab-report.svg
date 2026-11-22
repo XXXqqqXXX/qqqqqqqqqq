@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" fill="none">
+  <defs><linearGradient id="a" x1="73" y1="6" x2="670" y2="406" gradientUnits="userSpaceOnUse"><stop stop-color="#EDE7D9"/><stop offset="1" stop-color="#D3CBB9"/></linearGradient><linearGradient id="b" x1="328" y1="88" x2="419" y2="334" gradientUnits="userSpaceOnUse"><stop stop-color="#FDFCF7"/><stop offset="1" stop-color="#DAD5C8"/></linearGradient></defs>
+  <path fill="url(#a)" d="M0 0h720v420H0z"/><path d="M0 338c214-28 433-4 720-21v103H0V338Z" fill="#C7BFAF"/><path d="M192 337h361" stroke="#8D887D" stroke-opacity=".34" stroke-width="2"/>
+  <path d="M337 76h70v92l63 121c8 15-3 33-20 33H293c-17 0-28-18-20-33l64-121V76Z" fill="url(#b)" stroke="#8F8A80" stroke-width="3"/><path d="M340 198h65l44 87c5 10-2 21-13 21H291c-11 0-18-12-12-22l61-86Z" fill="#8D9C81" fill-opacity=".85"/><path d="m340 76 1 94m62-94-1 94" stroke="#88837A" stroke-width="3"/><rect x="332" y="64" width="80" height="14" rx="4" fill="#60615C"/><circle cx="323" cy="264" r="6" fill="#E4D8AC"/><circle cx="421" cy="276" r="4" fill="#EEE4C0"/><circle cx="352" cy="233" r="3" fill="#F6E9BF"/>
+  <path d="M115 305h72v31h-72z" fill="#F4F0E7"/><path d="M124 316h53m-53 8h39" stroke="#A6A092" stroke-width="2" stroke-linecap="round"/><path d="m531 122 46 13-26 91-46-13 26-91Z" fill="#F2EFE7" stroke="#A49E91" stroke-width="2"/><path d="m514 162 36 10m-39 2 30 9" stroke="#87917D" stroke-width="3"/>
+  <text x="82" y="96" fill="#716E63" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">LEARNING / 03</text>
+</svg>
